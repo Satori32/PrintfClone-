@@ -3,6 +3,9 @@
 #include <string>
 #include <string_view>
 #include <cstdint>
+
+//mit license.
+
 /**/
 std::uintmax_t PrintF_Show(const std::string_view& Fmt) {
 	std::cout << Fmt;
